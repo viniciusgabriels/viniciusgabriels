@@ -23,4 +23,4 @@
  
  ##
  
- Créditos: <div><a href="https://github.com/rafaballerini/rafaballerini"></div>
+ Créditos: https://github.com/rafaballerini/rafaballerini
