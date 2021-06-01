@@ -20,3 +20,7 @@
   ![Snake animation](https://github.com/viniciusgabriels/viniciusgabriels/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+ ##
+ 
+ Créditos: <a href="https://github.com/rafaballerini/rafaballerini">
