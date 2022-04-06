@@ -1,8 +1,8 @@
 ## Hi! I am Vinícius Santos
 
-💻 I'm working as Fullstack developer - React
-📖 I'm currently learning more about backend - node.js
-😊 Pronouns: He/Him
+<p>💻 I'm working as Fullstack developer - React<br>
+📖 I'm currently learning more about backend - node.js<br>
+😊 Pronouns: He/Him</p>
 
  <div>
   <a href="https://github.com/viniciusgabriels">
