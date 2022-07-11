@@ -30,5 +30,3 @@
 </div>
  
  ##
- 
- Créditos: https://github.com/rafaballerini/rafaballerini
