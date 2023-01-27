@@ -1,7 +1,7 @@
 ## Hi! I am Vinícius Santos
 
-<p>💻 I'm working as Fullstack developer - React<br>
-📖 I'm currently learning more about backend - node.js<br>
+<p>💻 I'm working as mobile developer - Flutter<br>
+📖 I'm currently learning more about Flutter and things around it<br>
 😊 Pronouns: He/Him</p>
 
  <div>
